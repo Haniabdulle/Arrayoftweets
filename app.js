@@ -80,7 +80,7 @@ let tweets = [
 },
 ]
 
-// this loop looking for the array of tweets and ages above 18 to print out tweets,username and created date //
+// this loop is looking for the array of tweets and ages above 18 to print out tweets,username and created date //
 
 let counter = 0;
 while(counter < tweets.length) {
